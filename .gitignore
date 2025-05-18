@@ -1,3 +1,9 @@
+# Ignore Python virtual environments
+/Scripts/*
+/Lib/*
+/Include/*
+pyenv.cfg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
